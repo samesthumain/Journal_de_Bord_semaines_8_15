@@ -2,9 +2,9 @@
 ## Retour sur la sortie
 
 ### Oeuvre préférée
-Nommez l'oeuvre que vous avez préférée lors de notre visite. En 2 à 3 lignes, expliquez pourquoi. 
+Goliath: Playing with Reality. J'ai aimé l'interactivité de l'experience, aussis, l'histoire de Goliath était très touchante. 
 
 
 ### Oeuvre la moins appréciée
-Nommez l'oeuvre que vous avez le moins aimé lors de notre visite. En 2 à 3 lignes, expliquez pourquoi. 
+Marco & Polo Go Round. Aucune interactivité, l'histoire n'était pas interessante pour moi et la fin n'avait pas de sens. 
 
