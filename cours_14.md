@@ -3,19 +3,19 @@
 Durée: 8 à 10 minutes
 
 ### Résumer votre projet en une phrase
-Résumer le projet en une phrase concise.   
+Jeu vidéo Roguelike.   
 
 ### Description du projet 
-Décrivez les grandes lignes de votre projet. 
+Re-Pete est un jeu dans lequel on incarne Pete un chercheur qui a été capturé dans un cercle temporel par des "démons". Le but du joueur est de sauver Pete et possiblement le monde aussi.
 
 ### Schéma du projet ou scénarimage
-Expliquer le déroulement de votre expérience grâce à un schéma narratif ou à un scénarimage. 
+! 
 
 ### Moodboard
 Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
 
 ### Technologies
-Décrivez quelles seront les technologies utilisées dans votre projet. 
+Pixelart, animation 2D et génération aléatoire de niveau. 
 
 ### Tâches
-Quelles sont les tâches nécessaires à la réalisation de votre projet? 
+Gestionaire de projet, programation, character design, level design, pixel art, animation, écriture du dialogue, testing, marketing, composition de la musique.
