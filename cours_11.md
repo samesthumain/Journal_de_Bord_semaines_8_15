@@ -10,4 +10,4 @@
 - J'ai oblié de faire une conclusion.
 
 ### Présentation préférée
-Quelle présentation avez-vous préféré et pourquoi? 
+Ma présentation préférée est celle d'Alexandre Gervais parce qu'il est capable de garder l'attention de l'audience et il n'a pas peur d'utiliser beaucoups d'humour dans sa présentation.
