@@ -9,7 +9,7 @@ Jeu vidéo Roguelike.
 Re-Pete est un jeu dans lequel on incarne Pete un chercheur qui a été capturé dans un cercle temporel par des "démons". Le but du joueur est de sauver Pete et possiblement le monde aussi.
 
 ### Schéma du projet ou scénarimage
-! 
+! [Scénarimage] (
 
 ### Moodboard
 Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
